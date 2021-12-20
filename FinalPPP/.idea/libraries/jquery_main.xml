@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="jquery-main">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/../Modules/jquery-main" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Modules/jquery-main" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../Modules/jquery-main" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../Modules/jquery-main" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Modules/jquery-main" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Modules/jquery-main" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Modules/jquery-main" recursive="false" type="SOURCES" />
+  </library>
+</component>
